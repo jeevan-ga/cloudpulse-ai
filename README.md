@@ -21,3 +21,6 @@ CloudPulse AI predicts cloud costs and detects unusual spending using machine le
 
 ## Project Status
 Currently in development.
+## Live Demo
+
+Try CloudPulse AI online: https://cloudpulse-ai-ay4thrwctqy5ids4alsmhf.streamlit.app/
